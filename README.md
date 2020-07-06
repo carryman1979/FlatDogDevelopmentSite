@@ -1,2 +1,0 @@
-# FlatDogDevelopmentSite
-GitHub Pages
